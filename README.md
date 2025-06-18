@@ -35,7 +35,10 @@ A comprehensive and interactive Power BI dashboard designed to provide **end-to-
 
 ## 🖼️ Dashboard Preview
 
-<img src="images/dashboard-overview.png" width="800"/>
+<img src="1.png">
+<img src="2.png">
+<img src="3.png">
+<img src="4.png">
 
 
 
